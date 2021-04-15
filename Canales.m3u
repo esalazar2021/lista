@@ -1,0 +1,22 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="El Salvador",TCS GO TV
+https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8?_=1
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="El Salvador",CANAL 10
+http://streamingcws20.com:1935/tves/smil:tves.smil/chunklist_w2089512435_b148000_DVR_sleng.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="El Salvador",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="El Salvador",CANAL 17
+https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w1831391284_b978000_DVR_sleng.m3u8?_=1
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="El Salvador",ORBITA TV
+https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist.m3u8?_=1
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="El Salvador",TVX
+https://video-weaver.ymq01.hls.ttvnw.net/v1/playlist/CtIEWwVfM__h-MnjVW_TiHmHYKYbA9d_uCiumgc41heSsycLyQadw0r6jWW3NwronY80vWcrIgrxbgs1ThYdP0y0XDoipKWMgkAzMH_5DKW_gN00E-3JkL-_GOnMTJVAUz29MshytwM_tsLZQA9IP2DTKPzX73UDfiWLQmG7QX6RRl-hPImofBuijc6cfnQsu9ID6sBhH2a6E6zfaqKDsmiTPA2qMSr3lXCX9VxgWzbA870cXIen0hkx9AebIw--4Uh5ouqgS70tN0gOH-Lsj_wMZFehzWAUHhi6y7IIGmX3cm8fDogIkDMfi1KChvqFAxpVqbMDtinnJMiOQwGNf91doGMG3nivSKMPnpmeq-D0CaR4rIH7fAJ-3rz2ZCnsW3WwBce2yLeqTwqaT594yN3irYaLi5ldAtzGRkMtm7uU5XEQ-FsJG-eaiELJJhC21GNtVbbgCWms1WBfvJa4hF5LqvepjCTQz5h1i3W3MQVTAbD2i4_Nlro7fcIpY9FjoOH0yPw7oT1UYzupfF0VW5iLgGjfwN_lIQvZ-QS_CPlEgflIBcjj5PADCdg-AL6uVG_rXM-hV8V5LtquzyWceQRIl2YGsfdisr3XgRHOSVQGlpZhZ5zGX7Lc2Yau2A9XuvtRXGMTUwzs-3p3ozMw_DMZfxuzBqLlB4CGzE9x852asBIEIE_zYmCNtV8oS0pQK1aBttqjzWTcmGIgx25dIcodNnnDQo2fXbSdL6kkpPs5w3ShJUsq42BFa6KcMIhzGA8cXi1-6SOutYNCJJVW01roUaeNEhCFgiAiRWAibcdSXU0Twj8KGgzlw7bp8-RjRtZJn44.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="El Salvador",ELIM TV
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_150_av-p.m3u8?sd=6&rebase=on&_=1
