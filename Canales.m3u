@@ -21,6 +21,12 @@ https://video-weaver.ymq01.hls.ttvnw.net/v1/playlist/CtIEWwVfM__h-MnjVW_TiHmHYKY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="El Salvador",ELIM TV
 https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_150_av-p.m3u8?sd=6&rebase=on&_=1
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ce9a3a96e0a17bbc1e2dd075a0c49f35.png" tvg-url="" group-title="El Salvador",SOL TV
+https://rtmp.info/soltv/envivo/chunklist_w1071952364.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/529d918e9a55a4920a9ba738e9bb8606.png" group-title="El Salvador",El Camino TV
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/chunklist_w638577888.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="Spanish" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/85d0fd3f9dab2acb467c4aca607c9764.png" tvg-url="" group-title="Religioso",	Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w104931710.m3u8
 
