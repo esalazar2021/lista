@@ -1,15 +1,12 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="" group-title="El Salvador",TCS GO TV
-https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8?_=1
- 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0b54d306b899ef923e48cb471e73c5b8.png" group-title="El Salvador",CANAL 10
 http://streamingcws20.com:1935/tves/smil:tves.smil/chunklist_w2089512435_b148000_DVR_sleng.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ff8556d00486db576233d86dd2e52bef.png" group-title="El Salvador",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="" group-title="El Salvador",CANAL 17
+#EXTINF:-1 tvg-logo="https://tabernaculo.net/wp-content/uploads/2021/03/logoweb2021.png" group-title="El Salvador",CANAL 17
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w1831391284_b978000_DVR_sleng.m3u8?_=1
  
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8c20da0d7134ea2390120155e3d88ba5.jpg" group-title="El Salvador",ORBITA TV
