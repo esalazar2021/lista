@@ -54,3 +54,17 @@ https://streamtape.com/get_video?id=6QL74mdDm6S9a8w&expires=1618577929&ip=F0yOKR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="Invencible" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Invencible",CAP 05
 https://streamtape.com/get_video?id=7G3J8k4y3RFVDJ&expires=1618577945&ip=F0yOKRgPKxSHDN&token=MN2yV3Uh4cGA&stream=1
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", Animal Planet
+http://45.71.202.210:50000/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", AE Mundo
+http://45.71.202.210:50000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", Cinecanal
+http://45.71.202.210:50000/play/a01k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", Cinemax
+http://45.71.202.210:50000/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", ESPN
+http://45.71.202.210:50000/play/a00s/index.m3u8
