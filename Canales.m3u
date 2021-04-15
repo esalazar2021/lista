@@ -21,6 +21,18 @@ https://video-weaver.ymq01.hls.ttvnw.net/v1/playlist/CtIEWwVfM__h-MnjVW_TiHmHYKY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="El Salvador",ELIM TV
 https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_150_av-p.m3u8?sd=6&rebase=on&_=1
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="Spanish" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/85d0fd3f9dab2acb467c4aca607c9764.png" tvg-url="" group-title="Religioso",	Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w104931710.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="Spanish" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2fab4e272c3aefc4aeea487b830e4231.png" tvg-url="" group-title="Religioso",Genesis TV
+http://201.144.184.98:1935/genesis/smil:television.smil/chunklist_b1696000_slspa.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="Spanish" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e9b632aabb0576ebf8f67b5af638ccba.png" tvg-url="" group-title="Religioso",XTOTV Enlace
+http://www.channel.tevemi.com:1935/XtoTv/XtoTv/chunklist_w1194859460.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="Spanish" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/10f92b45f2bece4d78686610fdf8e0f0.png" tvg-url="" group-title="Religioso",Alerta TV
+https://5b3050bb1b2d8.streamlock.net/alertatv/alertatv/chunklist_w542221515.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="Invencible" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Invencible",CAP 01
 https://streamtape.com/get_video?id=8vG2aRgaG2To78A&expires=1618577590&ip=F0yOKRgPKxSHDN&token=PaTvEzGq3ZQ3&stream=1
 
