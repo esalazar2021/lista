@@ -1,42 +1,45 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="El Salvador",TCS GO TV
+#EXTINF:-1 tvg-logo="" group-title="El Salvador",TCS GO TV
 https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8?_=1
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="El Salvador",CANAL 10
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0b54d306b899ef923e48cb471e73c5b8.png" group-title="El Salvador",CANAL 10
 http://streamingcws20.com:1935/tves/smil:tves.smil/chunklist_w2089512435_b148000_DVR_sleng.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="El Salvador",WOW TV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ff8556d00486db576233d86dd2e52bef.png" group-title="El Salvador",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="El Salvador",CANAL 17
+#EXTINF:-1 tvg-logo="" group-title="El Salvador",CANAL 17
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w1831391284_b978000_DVR_sleng.m3u8?_=1
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="El Salvador",ORBITA TV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8c20da0d7134ea2390120155e3d88ba5.jpg" group-title="El Salvador",ORBITA TV
 https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist.m3u8?_=1
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="El Salvador",TVX
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/87f15abaa8357cdacb05e7941cfe79b4.jpg" group-title="El Salvador",TVX
 https://video-weaver.ymq01.hls.ttvnw.net/v1/playlist/CtIEWwVfM__h-MnjVW_TiHmHYKYbA9d_uCiumgc41heSsycLyQadw0r6jWW3NwronY80vWcrIgrxbgs1ThYdP0y0XDoipKWMgkAzMH_5DKW_gN00E-3JkL-_GOnMTJVAUz29MshytwM_tsLZQA9IP2DTKPzX73UDfiWLQmG7QX6RRl-hPImofBuijc6cfnQsu9ID6sBhH2a6E6zfaqKDsmiTPA2qMSr3lXCX9VxgWzbA870cXIen0hkx9AebIw--4Uh5ouqgS70tN0gOH-Lsj_wMZFehzWAUHhi6y7IIGmX3cm8fDogIkDMfi1KChvqFAxpVqbMDtinnJMiOQwGNf91doGMG3nivSKMPnpmeq-D0CaR4rIH7fAJ-3rz2ZCnsW3WwBce2yLeqTwqaT594yN3irYaLi5ldAtzGRkMtm7uU5XEQ-FsJG-eaiELJJhC21GNtVbbgCWms1WBfvJa4hF5LqvepjCTQz5h1i3W3MQVTAbD2i4_Nlro7fcIpY9FjoOH0yPw7oT1UYzupfF0VW5iLgGjfwN_lIQvZ-QS_CPlEgflIBcjj5PADCdg-AL6uVG_rXM-hV8V5LtquzyWceQRIl2YGsfdisr3XgRHOSVQGlpZhZ5zGX7Lc2Yau2A9XuvtRXGMTUwzs-3p3ozMw_DMZfxuzBqLlB4CGzE9x852asBIEIE_zYmCNtV8oS0pQK1aBttqjzWTcmGIgx25dIcodNnnDQo2fXbSdL6kkpPs5w3ShJUsq42BFa6KcMIhzGA8cXi1-6SOutYNCJJVW01roUaeNEhCFgiAiRWAibcdSXU0Twj8KGgzlw7bp8-RjRtZJn44.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="El Salvador",ELIM TV
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8f3139a323cf01902b4f42289642f4a5.jpg" group-title="El Salvador",CANAL 33
+https://5ca9af4645e15.streamlock.net/canal33/videocanal33/chunklist_w695740407_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a320110bb5e404e1bfd8b05b2c8ec4cd.jpg" group-title="El Salvador",ELIM TV
 https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_150_av-p.m3u8?sd=6&rebase=on&_=1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SV" tvg-language="Spanish" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ce9a3a96e0a17bbc1e2dd075a0c49f35.png" tvg-url="" group-title="El Salvador",SOL TV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ce9a3a96e0a17bbc1e2dd075a0c49f35.png" group-title="El Salvador",SOL TV
 https://rtmp.info/soltv/envivo/chunklist_w1071952364.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/529d918e9a55a4920a9ba738e9bb8606.png" group-title="El Salvador",El Camino TV
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/chunklist_w638577888.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="Spanish" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/85d0fd3f9dab2acb467c4aca607c9764.png" tvg-url="" group-title="Religioso",	Extrema TV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/85d0fd3f9dab2acb467c4aca607c9764.png" group-title="Religioso",	Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w104931710.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="Spanish" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2fab4e272c3aefc4aeea487b830e4231.png" tvg-url="" group-title="Religioso",Genesis TV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2fab4e272c3aefc4aeea487b830e4231.png" tvg-url="" group-title="Religioso",Genesis TV
 http://201.144.184.98:1935/genesis/smil:television.smil/chunklist_b1696000_slspa.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="Spanish" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e9b632aabb0576ebf8f67b5af638ccba.png" tvg-url="" group-title="Religioso",XTOTV Enlace
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="Spanish" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e9b632aabb0576ebf8f67b5af638ccba.png"  group-title="Religioso",XTOTV Enlace
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/chunklist_w1194859460.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="Spanish" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/10f92b45f2bece4d78686610fdf8e0f0.png" tvg-url="" group-title="Religioso",Alerta TV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/10f92b45f2bece4d78686610fdf8e0f0.png"  group-title="Religioso",Alerta TV
 https://5b3050bb1b2d8.streamlock.net/alertatv/alertatv/chunklist_w542221515.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="Invencible" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Invencible",CAP 01
