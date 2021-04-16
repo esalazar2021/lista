@@ -1,4 +1,16 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="SAL|6 El Salvador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/186px-Canal_6_TCS.png" group-title="TV | El Salvador",SAL|6 El Salvador
+https://chinolistas.000webhostapp.com/gohan/3idtv/aHvZrtuH3s/jaVfaTNxDv/10440
+
+#EXTINF:-1 tvg-id="" tvg-name="SAL|Canal 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/252px-Canal_12_El_Salvador_2018.png" group-title="TV | El Salvador",SAL|Canal 12
+https://chinolistas.000webhostapp.com/gohan/3idtv/aHvZrtuH3s/jaVfaTNxDv/10435
+
+#EXTINF:-1 tvg-id="" tvg-name="SAL|Canal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="TV | El Salvador",SAL|Canal 2
+https://chinolistas.000webhostapp.com/gohan/3idtv/aHvZrtuH3s/jaVfaTNxDv/10437
+
+#EXTINF:-1 tvg-id="" tvg-name="SAL|Canal 4" tvg-logo="https://chinolistas.000webhostapp.com/gohan/3idtv/images/807a97360028df2f4207450bd23b53d8.png" group-title="TV | El Salvador",SAL|Canal 4
+https://chinolistas.000webhostapp.com/gohan/3idtv/aHvZrtuH3s/jaVfaTNxDv/10438
  
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0b54d306b899ef923e48cb471e73c5b8.png" group-title="El Salvador",CANAL 10
 http://streamingcws20.com:1935/tves/smil:tves.smil/chunklist_w2089512435_b148000_DVR_sleng.m3u8
