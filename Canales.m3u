@@ -30,41 +30,53 @@ https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/chunklist_w638577888.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/85d0fd3f9dab2acb467c4aca607c9764.png" group-title="Religioso",	Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w104931710.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2fab4e272c3aefc4aeea487b830e4231.png" tvg-url="" group-title="Religioso",Genesis TV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2fab4e272c3aefc4aeea487b830e4231.png" group-title="Religioso",Genesis TV
 http://201.144.184.98:1935/genesis/smil:television.smil/chunklist_b1696000_slspa.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="Spanish" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e9b632aabb0576ebf8f67b5af638ccba.png"  group-title="Religioso",XTOTV Enlace
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e9b632aabb0576ebf8f67b5af638ccba.png"  group-title="Religioso",XTOTV Enlace
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/chunklist_w1194859460.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/10f92b45f2bece4d78686610fdf8e0f0.png"  group-title="Religioso",Alerta TV
 https://5b3050bb1b2d8.streamlock.net/alertatv/alertatv/chunklist_w542221515.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="Invencible" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Invencible",CAP 01
-https://streamtape.com/get_video?id=8vG2aRgaG2To78A&expires=1618577590&ip=F0yOKRgPKxSHDN&token=PaTvEzGq3ZQ3&stream=1
+#EXTINF:-1 tvg-logo="" group-title="Invencible",CAP 01
+https://s3.zplayer.live/hls/5fxc3cwxwcnufvsa6khu7bwtu7kp6buwfwtfk5hpwdl4xafv7c27xiktqyia/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="Invencible" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Invencible",CAP 02
-https://streamtape.com/get_video?id=ZJby0kdA4JCqV6B&expires=1618577635&ip=F0yOKRgPKxSHDN&token=pdVnOFEIlSZX&stream=1
+#EXTINF:-1 ttvg-logo="" group-title="Invencible",CAP 02
+https://s10.zplayer.live/hls/5fxcvjgxwcnufvsa6khu7vg7wgw7btehnfekaqucfne6wzi7agheokb7vv4q/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="Invencible" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Invencible",CAP 03
-https://streamtape.com/get_video?id=P3wMWyv87XiRV7&expires=1618577873&ip=F0yOKRgPKxSHDN&token=pIaqdcthKSdx&stream=1
+#EXTINF:-1 tvg-logo="" group-title="Invencible",CAP 03
+https://s11.zplayer.live/hls/5fxcvwwxwcnufvsa6khu7wwxxj6spnawcbmb7ny2rieefxx23aq45do4upwq/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="Invencible" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Invencible",CAP 04
-https://streamtape.com/get_video?id=6QL74mdDm6S9a8w&expires=1618577929&ip=F0yOKRgPKxSHDN&token=OQe4JtUyFzfX&stream=1
+#EXTINF:-1 tvg-logo="" group-title="Invencible",CAP 04
+https://app1.zplayer.live/hls/5fxcs2fdwcnufvsa6kae7uoautvb77kniwnix73mg55xcxmkie56aslvz5lq/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="Invencible" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Invencible",CAP 05
-https://streamtape.com/get_video?id=7G3J8k4y3RFVDJ&expires=1618577945&ip=F0yOKRgPKxSHDN&token=MN2yV3Uh4cGA&stream=1
+#EXTINF:-1 tvg-logo="" group-title="Invencible",CAP 05
+https://app1.zplayer.live/hls/5fxcspn6wcnufvsa6kae7rgnw2zef4q7ak6qfk55qz3l7dv5r6xxlxiqo23a/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", Animal Planet
+#EXTINF:-1 tvg-logo="" group-title="Invencible",CAP 06
+https://app1.zplayer.live/hls/5fxcspn6wcnufvsa6kae7rgnw2zef4q7ak6qfk55qz3l7dv5r6xxlxiqo23a/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CABLE", Animal Planet
 http://45.71.202.210:50000/play/a00o/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", AE Mundo
+#EXTINF:-1 tvg-logo="" group-title="CABLE", AE Mundo
 http://45.71.202.210:50000/play/a00x/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", Cinecanal
+#EXTINF:-1 tvg-logo="" group-title="CABLE", Cinecanal
 http://45.71.202.210:50000/play/a01k/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", Cinemax
+#EXTINF:-1 tvg-logo="" group-title="CABLE", Cinemax
 http://45.71.202.210:50000/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLE", ESPN
+#EXTINF:-1 tvg-logo="" group-title="CABLE", ESPN
 http://45.71.202.210:50000/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista xtv36", ESPN 2
+http://45.71.202.210:50000/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista xtv36", ESPN 2 CO
+http://45.71.202.210:50000/play/a07u/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista xtv36", ESPN 3
+http://45.71.202.210:50000/play/a032/index.m3u8
