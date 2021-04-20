@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0b54d306b899ef923e48cb471e73c5b8.png" group-title="Pelicula",Comme un chef
+#EXTINF:-1 tvg-logo="" group-title="Pelicula",Comme un chef
 https://cdn.evosrv.com/thumbs/oUCq3BaQuVR7jHeYF52M.mp4.png
+
+#EXTINF:-1 tvg-logo="" group-title="Pelicula",Comme un chef
+https://snow.evosrv.com/EvoSrv/oUCq3BaQuVR7jHeYF52M.mp4?md5=spJkhDjs0r8ks1MRppvHmg&expires=1618962802
  
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0b54d306b899ef923e48cb471e73c5b8.png" group-title="El Salvador",CANAL 10
 http://streamingcws20.com:1935/tves/smil:tves.smil/chunklist_w2089512435_b148000_DVR_sleng.m3u8
